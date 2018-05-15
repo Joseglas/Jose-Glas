@@ -11,7 +11,7 @@
 
 body {
   background: #f2f2f2;
-  color: #ec0f0f;
+  color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
   font-weight: 300;
@@ -290,7 +290,7 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #7ce50b;
   padding-top: 190px;
 }
 

@@ -453,7 +453,7 @@ nav ul li a {
 
 #journal,  #journal-blog {
   height: auto;
-  width: 20%;
+  width: 100%;
   background: #f7f7f7;
   padding-bottom: 60px;
   position: relative;

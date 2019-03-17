@@ -91,13 +91,13 @@ p {
 }
 
 ::-moz-selection {
-  background: f7bd01e;
-  color: #FDDF05;
+  background: FDDF05;
+  color: #F20A0A;
 }
 
 ::selection {
-  background: f7bd01e;
-  color: #FDDF05;
+  background: #FDDF05;
+  color: #000000;
 }
 
 .btn {
